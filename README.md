@@ -1,6 +1,6 @@
 # BioLLM Explorer
 
-##Link to app download
+##Link to app download (Windows OS only at the moment)
 
 https://drive.google.com/file/d/1ZLHBJOJ0N0ZgFwjz--BTi7i6C5QT1f3i/view?usp=sharing
 
