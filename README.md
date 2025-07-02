@@ -1,6 +1,6 @@
 # BioLLM Explorer
 
-##Link to app web version: www.bio-llm.com
+##Link to app web version: www.associx.com
 
 ##Link to app download (Windows OS only at the moment)
 
